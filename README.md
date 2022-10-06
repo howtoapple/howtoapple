@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-From: 10 July 2020 - To: 06 August 2022
-
-Total Time: 1,464 hrs 54 mins
 
 <!--
 **howtoapple/howtoapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
